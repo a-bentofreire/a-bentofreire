@@ -24,9 +24,9 @@ In the last decade, I've shifted to mobile, web, and backend development, workin
 
 Please, have a look at:
 - [JsTraceToIX](https://github.com/a-bentofreire/jstracetoix): A JavaScript expression tracer for **debugging** React or Vue components, arrow functions, method chaining and expressions.
-- [PyTraceToIX](https://github.com/a-bentofreire/pytracetoix): A Python expression tracer for **debugging** lambdas, list comprehensions, method chaining, and expressions.
+- [PyTraceToIX](https://github.com/a-bentofreire/pytracetoix): ![GitHub Repo stars](https://img.shields.io/github/stars/a-bentofreire/pytracetoix): A Python expression tracer for **debugging** lambdas, list comprehensions, method chaining, and expressions.
 - [EditorToIX](https://github.com/a-bentofreire/editortoix)   ![GitHub Repo stars](https://img.shields.io/github/stars/a-bentofreire/editortoix): Text utilities for multiple code editors (Visual Studio Code, Cursor AI, Google Project IDX and Linux Editors).
-- [RenameToIX](https://github.com/a-bentofreire/renametoix): A Linux Gtk3 Bulk File Renamer bulky with integrations with Nemo, Nautilus and Thunar File Managers.
+- [RenameToIX](https://github.com/a-bentofreire/renametoix): A visual Linux file renamer built with Gtk, designed to be an alternative to Linux Mint bulky as file renamer on Nemo, Nautilus and Thunar File Manager.
 - [NumNJsToIX](https://www.devtoix.com/en/projects/numnjstoix): Lightweight numerical analysis C++ add-on for nodejs.
 - [ABeamer](https://github.com/a-bentofreire/abeamer)   ![GitHub Repo stars](https://img.shields.io/github/stars/a-bentofreire/abeamer?labelColor=3776AB
 ): A JavaScript frame-by-frame Web Animation framework.
@@ -37,6 +37,6 @@ If you find these projects useful, **please give it a star ⭐️**.
 
 I'm also the creator of [TravelToIX.com](https://www.traveltoix.com), a website dedicated to Travel How-to.  
 
-🎯 **Follow** me on [X@traveltoix](https://x.com/traveltoix), [X@abentofreire](https://x.com/abentofreire) and [Instagram](https://www.instagram.com/abentofreire/).  
+🎯 **Follow** me on [X@traveltoix](https://x.com/traveltoix), [X@abentofreire](https://x.com/abentofreire) and [Instagram/abentofreire](https://www.instagram.com/abentofreire/).  
 
 If you like travel pictures, have look at my photos from my years traveling in Asia: [Alexandre Bento Freire in a Timeless Journey](https://www.facebook.com/fb.abentofreire/).
