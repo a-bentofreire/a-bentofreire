@@ -24,9 +24,9 @@ In the last decade, I've shifted to mobile, web, and backend development, workin
 
 Please, have a look at:
 - [JsTraceToIX](https://github.com/a-bentofreire/jstracetoix): A JavaScript expression tracer for **debugging** React or Vue components, arrow functions, method chaining and expressions.
-- [PyTraceToIX](https://github.com/a-bentofreire/pytracetoix): ![GitHub Repo stars](https://img.shields.io/github/stars/a-bentofreire/pytracetoix): A Python expression tracer for **debugging** lambdas, list comprehensions, method chaining, and expressions.
-- [EditorToIX](https://github.com/a-bentofreire/editortoix)   ![GitHub Repo stars](https://img.shields.io/github/stars/a-bentofreire/editortoix): Text utilities for multiple code editors (Visual Studio Code, Cursor AI, Google Project IDX and Linux Editors).
-- [RenameToIX](https://github.com/a-bentofreire/renametoix): A visual Linux file renamer built with Gtk, designed to be an alternative to Linux Mint bulky as file renamer on Nemo, Nautilus and Thunar File Manager.
+- [PyTraceToIX](https://github.com/a-bentofreire/pytracetoix): ![GitHub Repo stars](https://img.shields.io/github/stars/a-bentofreire/pytracetoix) A Python expression tracer for **debugging** lambdas, list comprehensions, method chaining, and expressions.
+- [EditorToIX](https://github.com/a-bentofreire/editortoix) ![GitHub Repo stars](https://img.shields.io/github/stars/a-bentofreire/editortoix) Text utilities for multiple code editors (Visual Studio Code, Cursor AI, Google Project IDX and Linux Editors).
+- [RenameToIX](https://github.com/a-bentofreire/renametoix): ![GitHub Repo stars](https://img.shields.io/github/stars/a-bentofreire/renametoix) A visual Linux file renamer built with Gtk, designed to be an alternative to Linux Mint bulky as file renamer on Nemo, Nautilus and Thunar File Manager.
 - [NumNJsToIX](https://www.devtoix.com/en/projects/numnjstoix): Lightweight numerical analysis C++ add-on for nodejs.
 - [ABeamer](https://github.com/a-bentofreire/abeamer)   ![GitHub Repo stars](https://img.shields.io/github/stars/a-bentofreire/abeamer?labelColor=3776AB
 ): A JavaScript frame-by-frame Web Animation framework.
