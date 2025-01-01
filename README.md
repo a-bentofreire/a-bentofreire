@@ -28,8 +28,8 @@ Please, have a look at:
 - [EditorToIX](https://github.com/a-bentofreire/editortoix) ![GitHub Repo stars](https://img.shields.io/github/stars/a-bentofreire/editortoix) Text utilities for multiple code editors (Visual Studio Code, Cursor AI, Google Project IDX and Linux Editors).
 - [RenameToIX](https://github.com/a-bentofreire/renametoix): ![GitHub Repo stars](https://img.shields.io/github/stars/a-bentofreire/renametoix) A visual Linux file renamer built with Gtk, designed to be an alternative to Linux Mint bulky as file renamer on Nemo, Nautilus and Thunar File Manager.
 - [NumNJsToIX](https://www.devtoix.com/en/projects/numnjstoix): Lightweight numerical analysis C++ add-on for nodejs.
-- [BeamToIX](https://github.com/a-bentofreire/beamtoix)   ![GitHub Repo stars](https://img.shields.io/github/stars/a-bentofreire/beamtoix?labelColor=3776AB
-): A JavaScript frame-by-frame Web Animation framework.
+- [BeamToIX](https://github.com/a-bentofreire/beamtoix):   ![GitHub Repo stars](https://img.shields.io/github/stars/a-bentofreire/beamtoix?labelColor=3776AB
+) A JavaScript frame-by-frame Web Animation framework.
 
 If you find these projects useful, **please give it a star ⭐️**.
 
